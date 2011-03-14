@@ -1,0 +1,55 @@
+10
+
+dir
+56
+http://svn.creativesmoke.com/eln/branches/static_instances_python/arduino/libraries
+http://svn.creativesmoke.com/eln
+
+
+
+2010-08-04T20:39:54.729282Z
+49
+isaac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d61c66d-0ef5-42a6-9c79-0a1e35f4665a
+
+Output
+dir
+
+EnergyMonitor
+dir
+
+EthernetDNS
+dir
+
+YalerComplete
+dir
+
+EE
+dir
+
+Sensors
+dir
+
+Yaler
+dir
+
+EthernetBonjour
+dir
+
+EthernetDHCP
+dir
+
